@@ -120,59 +120,17 @@ I enjoy building modern, scalable web applications and continuously learning new
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
-## 🤖 AI Document Intelligence Assistant
-
-An AI-powered document processing application that extracts, analyzes, and manages document content using modern Python technologies.
-
-**Highlights**
-
-* 📄 OCR-based text extraction
-* 🤖 AI-powered document understanding
-* ⚡ FastAPI backend
-* 🗄️ SQLite database
-* 🔒 Secure authentication
-* 📂 File upload & management
-
-**Tech Stack**
-
-`Python` • `FastAPI` • `SQLite` • `SQLAlchemy` • `OCR`
+| Project                                   | Description                                                                                                           | Tech Stack                               | Live Demo                                       | Repository     |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- | -------------- |
+| 🤖 **AI Document Intelligence Assistant** | AI-powered document processing platform with OCR, intelligent document analysis, authentication, and file management. | Python, FastAPI, SQLAlchemy, SQLite, OCR | 🔗 Coming Soon                                  | 🔗 Coming Soon |
+| 📚 **SkillForge**                         | Full Stack SaaS learning platform with authentication, course management, progress tracking, and secure REST APIs.    | MongoDB, Express.js, React, Node.js      | 🔗 Coming Soon                                  | 🔗 Coming Soon |
+| 🌐 **Developer Portfolio**                | Personal portfolio showcasing projects, skills, and technical journey with a modern responsive design.                | React, Tailwind CSS, JavaScript          | 🌍 https://aditya-gadbail-portfolio.vercel.app/ | 🔗 Coming Soon |
 
 ---
 
-## 📚 SkillForge – SaaS Learning Platform
-
-A full-stack learning platform where instructors can create and manage courses while students can enroll and track their progress.
-
-**Highlights**
-
-* User Authentication & Authorization
-* Course Management
-* Progress Tracking
-* Secure REST APIs
-* Responsive Dashboard
-
-**Tech Stack**
-
-`MongoDB` • `Express.js` • `React.js` • `Node.js`
-
----
-
-## 🌐 Personal Portfolio
-
-A modern developer portfolio showcasing my skills, projects, and technical journey.
-
-**Features**
-
-* Responsive Design
-* Modern UI
-* Smooth Animations
-* Optimized Performance
-
-**Tech Stack**
-
-`React` • `Tailwind CSS` • `JavaScript`
 
 ---
 
