@@ -46,3 +46,57 @@ I enjoy building modern, scalable web applications and continuously learning new
 ---
 
 > **"Code with purpose. Learn continuously. Build solutions that make an impact."**
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,mysql" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,render" />
+</p>
+
+### 📚 Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker" />
+</p>
+
+---
+
+## 💡 Core Skills
+
+* Full Stack Web Development
+* REST API Development
+* Authentication & Authorization (JWT)
+* Responsive UI Design
+* CRUD Application Development
+* Database Design
+* File Upload & Management
+* Version Control with Git & GitHub
+* API Testing with Postman
+* Deployment using Vercel & Render
+
+---
