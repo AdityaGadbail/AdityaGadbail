@@ -100,3 +100,51 @@ I enjoy building modern, scalable web applications and continuously learning new
 * Deployment using Vercel & Render
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaGadbail&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGadbail&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGadbail&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaGadbail&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGadbail&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AdityaGadbail&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
