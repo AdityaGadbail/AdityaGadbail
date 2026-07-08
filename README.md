@@ -123,15 +123,12 @@ I enjoy building modern, scalable web applications and continuously learning new
 
 # 🚀 Featured Projects
 
-## 🚀 Featured Projects
+| Project                                   | Description                                                                                                                          | Tech Stack                                                            | Live Demo                                       | Repository                                                     |
+| :---------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :---------------------------------------------- | :------------------------------------------------------------- |
+| 🤖 **AI Document Intelligence Assistant** | AI-powered document processing platform with OCR, intelligent document analysis, authentication, and file management.                | Python, FastAPI, SQLAlchemy, SQLite, OCR                              | 🔗 Coming Soon                                  | 🔗 Coming Soon                                                 |
+| 📚 **SkillForge**                         | Full Stack SaaS learning platform with authentication, course management, progress tracking, secure REST APIs, and media management. | MongoDB, Express.js, React, Node.js, Tailwind CSS, Cloudinary, Multer | 🌐 https://skillforge-course.vercel.app/        | 📂 https://github.com/AdityaGadbail/Skillforge-Course-Platform |
+| 🌐 **Developer Portfolio**                | Personal portfolio showcasing my projects, technical skills, and development journey with a modern responsive design.                | React, Tailwind CSS, JavaScript                                       | 🌐 https://aditya-gadbail-portfolio.vercel.app/ | 📂 https://github.com/AdityaGadbail/My_Portfolio               |
 
-| Project | Tech Stack | Links |
-| :--- | :--- | :--- |
-| 🤖 **AI Document Intelligence Assistant** | Python • FastAPI • SQLAlchemy • SQLite • OCR | 🌐 Live (Coming Soon) • 📂 Code (Coming Soon) |
-| 📚 **SkillForge** | MongoDB • Express • React • Node.js • Tailwind CSS | [🌐 Live](https://skillforge-course.vercel.app/) • [📂 Code](https://github.com/AdityaGadbail/Skillforge-Course-Platform) |
-| 🌐 **Developer Portfolio** | React • Tailwind CSS • JavaScript | [🌐 Live](https://aditya-gadbail-portfolio.vercel.app/) • [📂 Code](https://github.com/AdityaGadbail/My_Portfolio) |
-
----
 
 
 ---
