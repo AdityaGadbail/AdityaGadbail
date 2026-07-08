@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AdityaGadbail/AdityaGadbail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Aditya Gadbail
 
-Here are some ideas to get you started:
+### Full Stack Developer | MERN Stack | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+Developer;Building+Scalable+Web+Applications;Learning+AI+for+Document+Intelligence" alt="Typing SVG" />
+
+<p>
+I enjoy building modern, scalable web applications and continuously learning new technologies. My primary focus is Full Stack Development with the MERN Stack, while expanding my Python skills to build intelligent document processing solutions.
+</p>
+
+<p>
+<a href="https://github.com/AdityaGadbail">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/adityagadbail">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://aditya-gadbail-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:adityagadbail003@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+* 🎓 Computer Science Engineering Graduate (2026)
+* 💼 Passionate about building scalable and user-friendly web applications
+* 💻 Full Stack Developer specializing in the MERN Stack
+* 🐍 Python Developer with a growing interest in intelligent document processing
+* 🤖 Learning the AI technologies required for building Document Intelligence applications
+* 🌱 Continuously improving my skills in Backend Development, System Design, and Software Architecture
+* 🚀 Always eager to learn modern technologies and build impactful projects
+
+---
+
+> **"Code with purpose. Learn continuously. Build solutions that make an impact."**
