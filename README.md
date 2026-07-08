@@ -106,13 +106,12 @@ I enjoy building modern, scalable web applications and continuously learning new
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaGadbail&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGadbail&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGadbail&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGadbail&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://streak-stats.demolab.com?user=AdityaGadbail&theme=tokyonight&hide_border=true" />
 
 </div>
 
