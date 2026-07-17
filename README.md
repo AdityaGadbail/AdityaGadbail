@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aditya Gadbail
+# Hi 👋, I'm Aditya Gadbail
 
 ### Full Stack Developer | MERN Stack | Python
 
